@@ -1,0 +1,4 @@
+python AES_encryption.py
+python generate_passphrase_file.py
+python server.py
+python client.py

@@ -1,0 +1,3 @@
+- Click on interface adapter for loopback trafic capture
+- Then filter with tcp.port == <PortNumber>
+- Finally, you can observe the tcp packet sent
