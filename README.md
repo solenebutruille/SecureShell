@@ -12,4 +12,7 @@ If everything works fine, you are able to run the command listfiles, cwd, chgdir
 As the file are actually, in order to make client.py work, we need to put informations : 
 5000 louis98
 
-From what I know and tested, they are no error or weaknesses. 
+To write my code, I looked at the code in : 
+https://www.journaldev.com/15906/python-socket-programming-server-client
+https://gist.github.com/jbdatko/7425443
+https://stackoverflow.com/questions/30056762/rsa-encryption-and-decryption-in-python
