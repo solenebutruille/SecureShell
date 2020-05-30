@@ -1,9 +1,0 @@
-I really liked this project again.
-I think that the subject, could have been more precise to explain the file UserCredentials. 
-Indeed, I didn't really understood how it was working : we don't ask the client for a password in the parameter but he needs one to connect, the salt is stored uncrypt which can be dangerous.
-Moreover, all the password we store in files are not encrypted which is a lack of security I think. 
-
-To write my code, I looked at the code in : 
-https://www.journaldev.com/15906/python-socket-programming-server-client
-https://gist.github.com/jbdatko/7425443
-https://stackoverflow.com/questions/30056762/rsa-encryption-and-decryption-in-python
