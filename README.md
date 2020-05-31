@@ -1,4 +1,6 @@
 # SecureShell
+In this project, I implemented a SSH server and a SSH client.  
+
 To create a new User, you have to open the file generate_passphrase_file.py, change the name that you want, 
 password that you want and then run it. File will be created in UserCredentials.
 
